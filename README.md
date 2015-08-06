@@ -7,6 +7,7 @@ Note that the mobile apps are maintained separately.
 
 The Android app is at https://github.com/warmshowers/wsandroid
 The iPhone app is at https://github.com/warmshowers/warmshowers-iphone-app
+The Windows app is at https://github.com/warmshowers/warmshowers-windows
 
 General info on the mobile apps is at http://www.warmshowers.org/mobile
 
